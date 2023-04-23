@@ -27,9 +27,11 @@ twitter_username: kashiwamochi110
 github_username:  kitabatake1013
 
 # Build settings
-theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-paginate
+  - jekyll-seo-tag
+  - kramdown-parser-gfm
 
 # Exclude from processing.
 # The following items will not be processed, by default.
