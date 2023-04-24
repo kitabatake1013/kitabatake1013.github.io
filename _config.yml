@@ -24,6 +24,7 @@ lang: ja
 author:
   name: かしわもちかずと
   url:
+tags_path: /tags/
 description: >- # this means to ignore newlines until "baseurl:"
   かしわもちかずと（北畠一翔）のブログ。
   技術的なメモ、日々考えたり感じたりしたことなど。
