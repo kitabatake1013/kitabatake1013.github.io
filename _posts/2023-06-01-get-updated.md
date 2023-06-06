@@ -15,7 +15,7 @@ tags: お知らせ
 ブログの更新情報は、RSSフィードとしても配信している。
 お手持ちのRSSリーダー等に下記のURLを登録することで、更新情報を受け取ることができる。
 
-<https://kitabatake1013.github.io/feed.xml>
+<{{ site.url }}/feed.xml>
 
 #### 参考：スクリーンリーダーで使えるRSSリーダー
 

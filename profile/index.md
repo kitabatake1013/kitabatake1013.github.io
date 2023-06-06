@@ -28,4 +28,4 @@ title: プロフィール
 
 * [Twitter(kashiwamochi110)](https://twitter.com/kashiwamochi110)
 * [GitHub(kitabatake1013)](https://github.com/kitabatake1013)
-* [blog](https://kitabatake1013.github.io/)
+* [blog]({{ site.url }}/)
