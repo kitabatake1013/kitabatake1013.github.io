@@ -15,7 +15,7 @@ title: プロフィール
 
 * [全盲ミュージシャンかしわもちかずと](http://kashiwamochi.net/)（CD販売、ライブなど）
 * [Accessible Tools Laboratory](https://actlab.org/)（視覚障害者向けソフトウェアの開発）
-* 画面読み上げソフト[JAWS for Windows](https://www.extra.co.jp/jaws/index.html)日本語版テスター（2023年3月～）
+* 画面読み上げソフト「[JAWS for Windows](https://www.extra.co.jp/jaws/index.html)」日本語版テスター（2023年3月～）
 
 ### SNSなど
 
