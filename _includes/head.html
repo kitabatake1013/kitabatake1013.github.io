@@ -10,4 +10,8 @@
   <script async src="https://use.fontawesome.com/releases/v5.0.12/js/all.js"></script>
   
   {% include custom-head.html %}
+
+  {% if jekyll.environment == 'production' and site.google_analytics %}
+    {% include google-analytics.html %}
+  {% endif %}
 </head>
