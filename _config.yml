@@ -27,7 +27,7 @@ author:
 tags_path: /tags/
 description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://www.kitabatake1013.jp" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://blog.kitabatake1013.jp" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: kashiwamochi110
 github_username:  kitabatake1013
 
